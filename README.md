@@ -34,8 +34,8 @@ The weather dataset is provided by the Max Planck Institute for Biogeochemistry.
 - Metrics like Mean Absolute Error (MAE) and Root Mean Square Error (RMSE) are used to assess the performance.
 
 ## Prerequisites
-- Ensure you have the necessary Python libraries installed via the requirements.txt file
-_ You can make sure torch is correctly installed using pip:
-pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
+- Ensure you have the necessary Python libraries installed via the requirements.txt file.
+_ You can make sure torch is correctly installed the command:`pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu`.
+
 
 
